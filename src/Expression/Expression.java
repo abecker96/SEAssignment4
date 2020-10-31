@@ -1,4 +1,4 @@
-//Assuming that the actual tree will be created elswhere
+//Assuming that the actual tree will be created elsewhere
 package Expression;
 
 public interface Expression
